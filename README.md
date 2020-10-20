@@ -9,7 +9,7 @@ The main purpose of the project is to identify if factors such as Crude Oil prod
 ## Questions Posed: 
 ### Can a direct correlation be identified between oil production and temperature increases? 
 Based on the analysis performed, we were able to identify a correlation between crude oil production and temperature increase.  The image below shows this correlation. 
-![Crude Oil & Temperature Correlation Plot]("C:\Users\hages\FinTech\Projects\Project 1\temp_oil_corr_plot.PNG"raw=true)
+![Crude Oil & Temperature Correlation Plot]("C:\Users\hages\FinTech\Projects\Project 1\temp_oil_corr_plot.PNG")
 
 
 ### Do increases in GDP impact climate change?
