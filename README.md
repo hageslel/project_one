@@ -1,10 +1,22 @@
 # Crude Oil Production & GDP Impact on Global Warming
-Global warming is the long-term heating of Earth’s climate system observed since the pre-industrial period due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere. The term is frequently used interchangeably with the term climate change, though the latter refers to both human- and naturally produced warming and the effects it has on our planet. It is most commonly measured as the average increase in Earth’s global surface temperature.
+Global warming is the long-term heating of Earth’s climate system observed since the pre-industrial period due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere. The term is frequently used interchangeably with the term climate change, though the latter refers to both human and naturally produced warming and the effects it has on our planet. It is most commonly measured as the average increase in Earth’s global surface temperature.
 Climate change is a long-term change in the average weather patterns that have come to define Earth’s local, regional and global climates. These changes have a broad range of observed effects that are synonymous with the term.
-Climate data records provide evidence of climate change key indicators, such as global land and ocean temperature increases; rising sea levels; ice loss at Earth’s poles and in mountain glaciers; frequency and severity changes in extreme weather such as hurricanes, heatwaves, wildfires, droughts, floods and precipitation
+Climate data records provide evidence of climate change key indicators, such as global land and ocean temperature increases, rising sea levels, ice loss at Earth’s poles and in mountain glaciers, frequency and severity changes in extreme weather such as hurricanes, heatwaves, wildfires, droughts, floods and precipitation
 
 ## Project Overview:
-The main purposed of the project is to identify the factors like Crude Oil production and GDP growth of the world is impacting the Global temperature and which in turn causes melting of earth glacier’s (Arctic & Antarctic).
+The main purpose of the project is to identify if factors such as Crude Oil production and GDP growth of the world are impacting the Global temperature, which in turn causes melting of Arctic and Antarctic sea ice.
+
+## Questions Posed: 
+### Can a direct correlation be identified between oil production and temperature increases? 
+Based on the analysis performed, we were able to identify a correlation between crude oil production and temperature increase.  The image below shows this correlation. 
+! [] (temp_oil_corr_plot)
+
+### Do increases in GDP impact climate change?
+
+### Is there a correlation between oil production and sea ice melt? 
+
+
+
 
 ## Data sources:
  **World GDP Data**(https://databank.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG/1ff4a498/Popular-Indicators#)
