@@ -13,11 +13,15 @@ Based on the analysis performed, we were able to identify a correlation between 
 
 
 ### Do increases in GDP impact climate change?
+Our analysis found that there is not a major correlation between GDP and temperature changes.  It is possible that with further analysis a stronger correlation could be found, but based on this analysis no strong correlation was found.  The image below displays a correlation heatmap between all components analyzed, which includes GPD and temperature.  
+![Detailed Correlation Heatmap](full_corr_plot.PNG)
 
 ### Is there a correlation between oil production and sea ice melt? 
-
-
-
+When reviewing sea ice melt, we analyzed both Arctic and Antarctic sea ice.  Arctic ice measurements are taken in March and September, whereas Antarctic ice measurements are taken in February and September.  The purpose of this is to measure sea ice in both locations at the time periods when ice is generally at its highest and lowest volume.  Based on our analysis we were able to find decent correlation between Antarctic sea ice melt and temperature increases, but no correlation between Arctic sea ice melt and temperature increases.  The plots below show our correlation findings between temperature increases and Arctic and Antarctic sea ice melt.  
+![March Arctic/Temp Correlation](mar_arctic_corr.PNG)
+![September Arctic/Temp Correlation](sept_arctic_corr.PNG)
+![February Antarctic/Temp Correlation](antarctic_feb_corr.PNG)
+![September Antarctic/Temp Correlation](antarctic_sept_corr.PNG)
 
 ## Data sources:
  **World GDP Data**(https://databank.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG/1ff4a498/Popular-Indicators#)
