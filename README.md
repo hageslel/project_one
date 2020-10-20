@@ -6,7 +6,7 @@ Climate data records provide evidence of climate change key indicators, such as 
 ## Project Overview:
 The main purpose of the project is to identify if factors such as Crude Oil production and GDP growth of the world are impacting the Global temperature, which in turn causes melting of Arctic and Antarctic sea ice.
 
-## Questions Posed: 
+## Questions Posed for Analysis: 
 ### Can a direct correlation be identified between oil production and temperature increases? 
 Based on the analysis performed, we were able to identify a correlation between crude oil production and temperature increase.  The image below shows this correlation. 
 ![Crude Oil & Temperature Correlation Plot](temp_oil_corr_plot.PNG)
